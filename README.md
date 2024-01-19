@@ -1,6 +1,6 @@
-### Welcome to my GitHub
+### Bem-vindo ao meu GitHub, onde compartilho meu trabalho e aprendizado!
 
-- 💻 Dedico-me ao estudo de Python, SQL e Power BI para aprimorar minhas habilidades na análise de dados. Cada linha de código e consulta representa um passo sólido na jornada de domínio dessas ferramentas. Comprometido com a construção de análises mais eficazes, busco transformar dados em insights impactantes.
+- 💻 Dedicado à análise de dados, busco aprimorar minhas habilidades em Python, SQL e Power BI. Com foco na interpretação de informações e geração de insights, estou comprometido em desenvolver uma expertise sólida nessa área.
   
 ##
 
