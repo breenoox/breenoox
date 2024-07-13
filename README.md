@@ -1,17 +1,12 @@
 ### Bem-vindo ao meu GitHub, onde compartilho meu trabalho e aprendizado!
 
-- 💻 Dedicado à análise de dados, busco aprimorar minhas habilidades em Python, SQL e Power BI. Com foco na interpretação de informações e geração de insights, estou comprometido em desenvolver uma expertise sólida nessa área.
+- 💻 Sou graduado em Análise e Desenvolvimento de Sistemas pela FECAP, com experiência como desenvolvedor full-stack. Durante minha trajetória, participei de projetos desafiadores que me permitiram integrar front-end e back-end, criando soluções inovadoras e eficientes.
+
+Acredito fortemente na importância do aprendizado contínuo, e por isso, estou sempre em busca de me desenvolver no campo do desenvolvimento front-end. Atualmente, estou focado em aprimorar minhas habilidades e conhecimentos nesta área, explorando as melhores práticas e tecnologias emergentes.
   
 ##
-
-<div style="display: inline_block"><br>
-  <img align="center" alt="python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="mysql" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
-</div>
-
-##
   
-- 💻 Possuo experiência e conhecimento básico em AngularJS, C#, Javascript, TypeScript, PHP, HTML e CSS.
+- 💻 Possuo experiência e conhecimento em AngularJS, C#, Javascript, TypeScript, PHP, HTML e CSS.
 
 ##
 
