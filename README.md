@@ -2,7 +2,7 @@
 
 - 💻 Sou graduado em Análise e Desenvolvimento de Sistemas pela FECAP, com experiência como desenvolvedor full-stack. Durante minha trajetória, participei de projetos desafiadores que me permitiram integrar front-end e back-end, criando soluções inovadoras e eficientes.
 
-Acredito fortemente na importância do aprendizado contínuo, e por isso, estou sempre em busca de me desenvolver no campo do desenvolvimento front-end. Atualmente, estou focado em aprimorar minhas habilidades e conhecimentos nesta área, explorando as melhores práticas e tecnologias emergentes.
+- 💻 Acredito fortemente na importância do aprendizado contínuo, e por isso, estou sempre em busca de me desenvolver no campo do desenvolvimento front-end. Atualmente, estou focado em aprimorar minhas habilidades e conhecimentos nesta área, explorando as melhores práticas e tecnologias emergentes.
   
 ##
   
