@@ -1,40 +1,28 @@
-# Olá, eu sou o Breno! 👋
+### Bem-vindo ao meu GitHub, onde compartilho meu trabalho e aprendizado!
 
-**Bem-vindo ao meu perfil no GitHub!**  
-Aqui você vai encontrar projetos, com foco em **desenvolvimento web**. Sou formado em **Análise e Desenvolvimento de Sistemas pela FECAP** e estou sempre em busca de aprimorar minhas habilidades em tecnologias e desenvolvimento de software.
+- 💻 Sou graduado em Análise e Desenvolvimento de Sistemas pela FECAP, com experiência como desenvolvedor full-stack. Durante minha trajetória, participei de projetos desafiadores que me permitiram integrar front-end e back-end, criando soluções inovadoras e eficientes.
 
-## Sobre mim
+- 💻 Acredito fortemente na importância do aprendizado contínuo, e por isso, estou sempre em busca de me desenvolver no campo do desenvolvimento front-end. Atualmente, estou focado em aprimorar minhas habilidades e conhecimentos nesta área, explorando as melhores práticas e tecnologias emergentes.
+  
+##
+  
+- 💻 Possuo experiência e conhecimento em AngularJS, C#, Javascript, TypeScript, PHP, HTML e CSS.
 
-- 🎓 Formado em **Análise e Desenvolvimento de Sistemas**.
-- 📚 Atualmente me especializando em **desenvolvimento fullstack**.
-- 💻 Apaixonado por **tecnologia** e **inovação**.
-- 🎮 Gosto de **jogos** e de estar conectado com amigos.
+##
 
-## Skills
+<div style="display: inline_block"><br>
+  <img align="center" alt="html" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="css" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
+  <img align="center" alt="angular" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg">
+  <img align="center" alt="angular" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
+  <img align="center" alt="angular" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg">
+</div>
 
-### Linguagens
-<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v13/icons/php.svg" />
-<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v13/icons/javascript.svg" />
-<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v13/icons/css.svg" />
-<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v13/icons/html.svg" />
+##
 
-### Freameworks
-<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v13/icons/laravel.svg" />
-<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v13/icons/angular.svg" />
-<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v13/icons/vue.svg" />
-
-### Banco de Dados
-<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v13/icons/mysql.svg" />
-<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v13/icons/postgresql.svg" />
-
-### Ferramentas
-<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v13/icons/xamp.svg" />
-<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v13/icons/git.svg" />
-<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v13/icons/github.svg" />
-<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v13/icons/jira.svg" />
-
-## Conecte-se comigo
-
-Se você quiser discutir projetos, colaborar ou simplesmente trocar uma ideia, fique à vontade para me contatar:
-[<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v13/icons/linkedin.svg" />](https://www.linkedin.com/in/brenobarbosa22/)
-
+<div align="center">
+  <a href="https://github.com/breenoox">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=breenoox&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=breenoox&layout=compact&langs_count=7&theme=dracula"/>
+</div>
